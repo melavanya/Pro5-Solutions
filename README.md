@@ -1,8 +1,5 @@
 # Pro5 Project Management Tool
 
-**Live**:https://project-management-tool.netlify.com/
-
-
 ![dock](Pro5-Project.png) 
 
 ### About the App
